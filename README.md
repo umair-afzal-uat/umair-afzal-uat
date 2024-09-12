@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://umairafzaluat.wixsite.com/profile](https://umairafzaluat.wixsite.com/profile)
 
-- 📝 I regularly write articles on [https://umairafzaluat.wixsite.com/profile](https://umairafzaluat.wixsite.com/profile)
+- 📝 I regularly write articles on [https://daily.dev/](https://daily.dev/)
 
 - 💬 Ask me about **react, next, node, PHP, Laravel, CodeIgniter, Symfony, Yii, Phalcon, MYSQL, MongoDB, Redis, AWS**
 
