@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **react, next, node, PHP, Laravel, CodeIgniter, Symfony, Yii, Phalcon, MYSQL, MongoDB, Redis, AWS**
 
-- 📫 How to reach me **umair.afzal.uat@gmail.com**
+- 📫 How to reach me **umairafzalphp@gmail.com**
 
 - 📄 Know about my experiences [https://umairafzaluat.wixsite.com/profile](https://umairafzaluat.wixsite.com/profile)
 
