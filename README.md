@@ -1,111 +1,154 @@
-<h1 align="center">Hi 👋, I'm Muhammad Umair Afzal</h1>
-<h3 align="center">Senior Full-Stack & AI Engineer · 10+ years shipping production SaaS, e-signing, CRM and AI systems</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=200&section=header&text=Muhammad%20Umair%20Afzal&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Muhammad Umair Afzal" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&lines=10%2B+years+shipping+production+SaaS;AI+systems+with+Claude+%26+OpenAI+APIs;Laravel+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+Next.js;CRM%2C+e-signing+%26+lead-gen+platforms;Open+to+senior+remote+roles+%26+contracts" alt="Typing intro" />
+</p>
 
 <p align="center">
   <a href="https://umairafzal.pro/"><img src="https://img.shields.io/badge/Portfolio-umairafzal.pro-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mumairafzal"><img src="https://img.shields.io/badge/LinkedIn-mumairafzal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:umair.afzal.uat@gmail.com"><img src="https://img.shields.io/badge/Email-umair.afzal.uat%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:umair.afzal.uat@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=umair-afzal-uat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
-
----
-
-### 🧑‍💻 About me
-
-Remote full-stack engineer based in Lahore, Pakistan (UTC+5), working with US and UK teams. I build and lead end-to-end SaaS products: Laravel / Node.js backends, React / Next.js frontends, and production AI features on the Claude and OpenAI APIs.
-
-- 🔭 Currently: **Full-Stack Engineer / Project Lead at Streamline Technology (SLTech)**, building an AI real estate SaaS (Next.js, Laravel, Claude API, production RAG)
-- 🤖 Working with **Claude API, OpenAI API, LangChain, LangGraph, RAG systems, prompt engineering**
-- 👥 Led teams of **15+ engineers**; shipped CRM, lead-gen, e-signature and compliance platforms
-- ⚡ Performance: cut query response times **4s → 1s**, reduced API latency **~40%** with Redis, platforms handling **2M+ leads/day**
-- 💼 Open to **senior remote full-time roles, freelance and contract work**
-- 📫 Reach me at **umair.afzal.uat@gmail.com** (I reply within 24 hours)
-
----
-
-### 🏢 Experience
-
-| Role | Company | Period |
-|---|---|---|
-| Full-Stack Engineer / Project Lead | Streamline Technology (SLTech), US SaaS, remote | 2024 – present |
-| Full-Stack Engineer | Redesign Group, security SaaS, USA, remote | 2023 – 2025 |
-| Lead Developer / Technical Architect | The Genius Group, UK lead-gen SaaS, remote | 2018 – 2024 |
-| Team Lead Software Engineer | ArhamSoft Pvt Ltd, Lahore | 2015 – 2023 |
-| Sr Web Developer & Software Engineer | Bir-al-Sabia Technologies & Punjab IT Board | 2013 – 2015 |
-
----
-
-### 🚀 Featured projects
-
-- **AI Real Estate SaaS**: MLS-triggered website generation with Claude and OpenAI · _Next.js, Laravel_
-- **Lead Generation Platform**: multi-campaign SaaS for UK claims verticals, £100M+ campaign revenue · _PHP, Laravel, React, MySQL, Twilio_
-- **EsignPanda & NowSign**: enterprise e-signature SaaS · _Node.js, React, MongoDB, AWS_
-- **Cybersecurity Compliance**: multi-tenant security posture platform, 30+ security tool integrations · _Node.js, React, PostgreSQL, Docker_
-- **ControlPanda**: drag-and-drop website builder with payments · _PHP, Laravel, React, PayPal_
-- **PostCode Lookup Service**: UK postcode address API · _Node.js, React, MongoDB_
-
-More on my portfolio 👉 **[umairafzal.pro](https://umairafzal.pro/)**
-
----
-
-### 🛠️ Tech stack
-
-**AI & LLM**<br/>
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-0e75b6?style=flat-square)
-
-**Backend**<br/>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-**Frontend**<br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Databases & caching**<br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Cloud & DevOps**<br/>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Platforms & integrations**<br/>
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)
-
----
-
-### 🎓 Education
-
-- **MPhil, Computer Science**, University of Sargodha (2015 – 2018)
-- **MSc, Information Technology**, University of the Punjab, PUCIT (2011 – 2013)
-
----
-
-### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umair-afzal-uat&show_icons=true&locale=en" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umair-afzal-uat&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Location-Lahore%2C_Pakistan_(UTC%2B5)-555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Available-Remote_%7C_Freelance_%7C_Contract-2ea44f?style=flat-square" alt="Availability" />
+  <img src="https://komarev.com/ghpvc/?username=umair-afzal-uat&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=umair-afzal-uat" alt="GitHub streak" /></p>
+---
+
+## 🧑‍💻 About me
+
+Remote full-stack engineer working with **US and UK teams**. I build and lead end-to-end SaaS products: Laravel / Node.js backends, React / Next.js frontends, and production AI features on the Claude and OpenAI APIs.
+
+```js
+const umair = {
+  role:        "Senior Full-Stack & AI Engineer",
+  experience:  "10+ years",
+  currently:   "Project Lead @ Streamline Technology (AI real estate SaaS)",
+  ai:          ["Claude API", "OpenAI API", "LangChain", "LangGraph", "RAG"],
+  backend:     ["Laravel", "Node.js", "Express", "GraphQL"],
+  frontend:    ["React", "Next.js", "Vue.js", "TypeScript", "Tailwind"],
+  openTo:      ["Senior remote roles", "Freelance", "Contract"],
+};
+```
+
+## 🏆 Highlights
+
+<table>
+  <tr>
+    <td align="center" width="25%"><h3>10+</h3>years building products</td>
+    <td align="center" width="25%"><h3>15+</h3>engineers led</td>
+    <td align="center" width="25%"><h3>2M+</h3>leads / day handled</td>
+    <td align="center" width="25%"><h3>£100M+</h3>client campaign revenue</td>
+  </tr>
+</table>
+
+- ⚡ Cut query response times from **4s → 1s** on an AI real estate SaaS
+- 🚀 Set up infrastructure for **25+ deploys per week**
+- 🧠 Reduced API latency by **~40%** with Redis caching
+- 🔐 Integrated **30+ security tools** into a compliance platform
+
+## 🏢 Experience
+
+| Role | Company | Period |
+|:--|:--|:--:|
+| **Full-Stack Engineer / Project Lead** | Streamline Technology (SLTech) · US SaaS · Remote | 2024 – Present |
+| **Full-Stack Engineer** | Redesign Group · Security SaaS · USA · Remote | 2023 – 2025 |
+| **Lead Developer / Technical Architect** | The Genius Group · UK lead-gen SaaS · Remote | 2018 – 2024 |
+| **Team Lead Software Engineer** | ArhamSoft Pvt Ltd · Lahore | 2015 – 2023 |
+| **Sr Web Developer & Software Engineer** | Bir-al-Sabia Technologies & Punjab IT Board | 2013 – 2015 |
+
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏠 AI Real Estate SaaS</h4>
+      MLS-triggered website generation with Claude and OpenAI.<br/>
+      <sub><b>Next.js · Laravel · Claude API · RAG</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 Lead Generation Platform</h4>
+      Multi-campaign SaaS for UK claims verticals, £100M+ campaign revenue.<br/>
+      <sub><b>PHP · Laravel · React · MySQL · Twilio</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>✍️ EsignPanda & NowSign</h4>
+      Enterprise e-signature SaaS.<br/>
+      <sub><b>Node.js · React · MongoDB · AWS</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ Cybersecurity Compliance</h4>
+      Multi-tenant security posture platform with 30+ tool integrations.<br/>
+      <sub><b>Node.js · React · PostgreSQL · Docker</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧱 ControlPanda</h4>
+      Drag-and-drop website builder with payments.<br/>
+      <sub><b>PHP · Laravel · React · PayPal</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📮 PostCode Lookup Service</h4>
+      UK postcode address API.<br/>
+      <sub><b>Node.js · React · MongoDB</b></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">➕ 100+ more small and medium projects on <a href="https://umairafzal.pro/"><b>umairafzal.pro</b></a></p>
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,graphql,react,nextjs,vue,ts,tailwind&perline=10" alt="Backend and frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,docker,githubactions,nginx,linux,wordpress&perline=10" alt="Data, cloud and DevOps" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG_Systems-0e75b6?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+</p>
+
+## 🎓 Education
+
+- 🎓 **MPhil, Computer Science**, University of Sargodha (2015 – 2018)
+- 🎓 **MSc, Information Technology**, University of the Punjab, PUCIT (2011 – 2013)
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umair-afzal-uat&theme=tokyonight" width="100%" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umair-afzal-uat&theme=tokyonight" height="170" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umair-afzal-uat&theme=tokyonight" height="170" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=umair-afzal-uat&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+## 🤝 Let's work together
+
+<p align="center">
+  Building a SaaS, adding AI to your product, or need a senior engineer to lead delivery?<br/>
+  <b>I reply within 24 hours.</b>
+</p>
+
+<p align="center">
+  <a href="mailto:umair.afzal.uat@gmail.com"><img src="https://img.shields.io/badge/Hire_me-umair.afzal.uat%40gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0e75b6&height=120&section=footer" width="100%" alt="" />
