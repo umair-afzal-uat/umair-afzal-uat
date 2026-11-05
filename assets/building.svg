@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Currently building: AI real estate SaaS at Streamline Technology. Open to senior remote roles.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Currently building: AI real estate SaaS at Streamline Technology.">
   <defs>
     <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#0F6E56"/>
@@ -32,8 +32,8 @@
     <text class="sub" x="0" y="132">Project Lead @ Streamline Technology · US SaaS · Remote</text>
 
     <rect x="0" y="166" width="150" height="30" fill="#7DDBB8"/>
-    <text class="chip" x="75" y="186" text-anchor="middle">OPEN TO WORK</text>
-    <text class="small" x="166" y="186">Senior remote roles · Freelance · Contract</text>
+    <text class="chip" x="75" y="186" text-anchor="middle">IN PRODUCTION</text>
+    <text class="small" x="166" y="186">Next.js · Laravel · Claude API · RAG</text>
   </g>
 
   <!-- Right: highlights -->

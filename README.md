@@ -9,7 +9,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Lahore%2C_Pakistan_(UTC%2B5)-121714?style=flat-square&logo=googlemaps&logoColor=7DDBB8&labelColor=2A332E" alt="Location" />
-  <img src="https://img.shields.io/badge/Available-Remote_%7C_Freelance_%7C_Contract-1FA37A?style=flat-square&labelColor=2A332E" alt="Availability" />
   <img src="https://komarev.com/ghpvc/?username=umair-afzal-uat&label=Profile%20views&color=0F6E56&style=flat-square&labelColor=2A332E" alt="Profile views" />
 </p>
 
@@ -27,12 +26,11 @@ const umair = {
   ai:          ["Claude API", "OpenAI API", "LangChain", "LangGraph", "RAG"],
   backend:     ["Laravel", "Node.js", "Express", "GraphQL"],
   frontend:    ["React", "Next.js", "Vue.js", "TypeScript", "Tailwind"],
-  openTo:      ["Senior remote roles", "Freelance", "Contract"],
 };
 ```
 
 <p align="center">
-  <img src="./assets/building.svg" width="100%" alt="Currently building: AI Real Estate SaaS at Streamline Technology. Open to senior remote roles, freelance and contract." />
+  <img src="./assets/building.svg" width="100%" alt="Currently building: AI Real Estate SaaS at Streamline Technology." />
 </p>
 
 ## 🏆 Highlights
