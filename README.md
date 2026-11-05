@@ -67,36 +67,36 @@ const umair = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏠 AI Real Estate SaaS</h4>
+      <b>🏠 AI Real Estate SaaS</b><br/><br/>
       MLS-triggered website generation with Claude and OpenAI.<br/>
       <sub><b>Next.js · Laravel · Claude API · RAG</b></sub>
     </td>
     <td width="50%" valign="top">
-      <h4>📈 Lead Generation Platform</h4>
+      <b>📈 Lead Generation Platform</b><br/><br/>
       Multi-campaign SaaS for UK claims verticals, £100M+ campaign revenue.<br/>
       <sub><b>PHP · Laravel · React · MySQL · Twilio</b></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>✍️ EsignPanda & NowSign</h4>
+      <b>✍️ EsignPanda & NowSign</b><br/><br/>
       Enterprise e-signature SaaS.<br/>
       <sub><b>Node.js · React · MongoDB · AWS</b></sub>
     </td>
     <td width="50%" valign="top">
-      <h4>🛡️ Cybersecurity Compliance</h4>
+      <b>🛡️ Cybersecurity Compliance</b><br/><br/>
       Multi-tenant security posture platform with 30+ tool integrations.<br/>
       <sub><b>Node.js · React · PostgreSQL · Docker</b></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧱 ControlPanda</h4>
+      <b>🧱 ControlPanda</b><br/><br/>
       Drag-and-drop website builder with payments.<br/>
       <sub><b>PHP · Laravel · React · PayPal</b></sub>
     </td>
     <td width="50%" valign="top">
-      <h4>📮 PostCode Lookup Service</h4>
+      <b>📮 PostCode Lookup Service</b><br/><br/>
       UK postcode address API.<br/>
       <sub><b>Node.js · React · MongoDB</b></sub>
     </td>
