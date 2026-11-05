@@ -32,6 +32,10 @@ const umair = {
 };
 ```
 
+<p align="center">
+  <img src="./assets/building.svg" width="100%" alt="Currently building: AI Real Estate SaaS at Streamline Technology. Open to senior remote roles, freelance and contract." />
+</p>
+
 ## 🏆 Highlights
 
 <table>
@@ -132,13 +136,6 @@ const umair = {
 <p align="center">
   <img src="./assets/cards/3-stats.svg" width="49%" alt="GitHub stats" />
   <img src="./assets/cards/2-most-commit-language.svg" width="49%" alt="Top languages" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
-    <img src="./assets/snake.svg" width="100%" alt="Contribution snake" />
-  </picture>
 </p>
 
 ## 🤝 Let's work together

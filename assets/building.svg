@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Currently building: AI real estate SaaS at Streamline Technology. Open to senior remote roles.">
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0F6E56"/>
+      <stop offset="1" stop-color="#1FA37A"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#F4F6F3" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <style>
+    .eyebrow { font: 700 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #7DDBB8; letter-spacing: 2px; }
+    .title   { font: 800 30px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #F4F6F3; }
+    .sub     { font: 400 16px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #A8B2AC; }
+    .item    { font: 600 15px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #F4F6F3; }
+    .small   { font: 400 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #A8B2AC; }
+    .chip    { font: 700 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #121714; letter-spacing: 1.5px; }
+    .live    { animation: pulse 1.8s ease-in-out infinite; transform-origin: 72px 52px; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+    @media (prefers-reduced-motion: reduce) { .live { animation: none; } }
+  </style>
+
+  <rect width="1200" height="250" fill="#121714"/>
+  <rect width="1200" height="250" fill="url(#grid)"/>
+  <rect width="4" height="250" fill="url(#acc)"/>
+
+  <!-- Left: what -->
+  <g transform="translate(64 0)">
+    <circle class="live" cx="8" cy="52" r="5" fill="#1FA37A"/>
+    <text class="eyebrow" x="22" y="57">CURRENTLY BUILDING</text>
+    <text class="title" x="0" y="102">AI Real Estate SaaS</text>
+    <text class="sub" x="0" y="132">Project Lead @ Streamline Technology · US SaaS · Remote</text>
+
+    <rect x="0" y="166" width="150" height="30" fill="#7DDBB8"/>
+    <text class="chip" x="75" y="186" text-anchor="middle">OPEN TO WORK</text>
+    <text class="small" x="166" y="186">Senior remote roles · Freelance · Contract</text>
+  </g>
+
+  <!-- Right: highlights -->
+  <g transform="translate(700 40)">
+    <rect width="440" height="170" fill="#0B0F0D" stroke="#F4F6F3" stroke-opacity="0.10"/>
+    <g transform="translate(24 38)">
+      <rect x="0" y="-12" width="8" height="8" fill="#1FA37A"/>
+      <text class="item" x="20" y="-3">MLS-triggered website generation</text>
+      <text class="small" x="20" y="16">Claude + OpenAI APIs · Next.js · Laravel</text>
+    </g>
+    <g transform="translate(24 90)">
+      <rect x="0" y="-12" width="8" height="8" fill="#1FA37A"/>
+      <text class="item" x="20" y="-3">Production RAG pipelines</text>
+      <text class="small" x="20" y="16">Query response time cut from 4s to 1s</text>
+    </g>
+    <g transform="translate(24 142)">
+      <rect x="0" y="-12" width="8" height="8" fill="#1FA37A"/>
+      <text class="item" x="20" y="-3">Infra for 25+ deploys per week</text>
+      <text class="small" x="20" y="16">Docker · CI/CD · AWS</text>
+    </g>
+  </g>
+</svg>

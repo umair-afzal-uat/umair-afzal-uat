@@ -46,13 +46,6 @@ jobs:
           done
           rm -rf profile-summary-card-output
 
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            assets/snake.svg?color_snake=#0F6E56&color_dots=#E9ECE8,#B7E4D2,#7DDBB8,#1FA37A,#0F6E56
-            assets/snake-dark.svg?color_snake=#7DDBB8&color_dots=#1E2622,#0F6E56,#168A66,#1FA37A,#7DDBB8
-
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
