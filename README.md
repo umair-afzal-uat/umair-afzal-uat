@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=200&section=header&text=Muhammad%20Umair%20Afzal&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Muhammad Umair Afzal" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&lines=10%2B+years+shipping+production+SaaS;AI+systems+with+Claude+%26+OpenAI+APIs;Laravel+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+Next.js;CRM%2C+e-signing+%26+lead-gen+platforms;Open+to+senior+remote+roles+%26+contracts" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&lines=10%2B+years+shipping+production+SaaS;AI+systems+with+Claude+%26+OpenAI+APIs;Laravel+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+Next.js;CRM%2C+e-signing+%26+lead-gen+platforms;Open+to+senior+remote+roles+%26+contracts" alt="Senior Full-Stack & AI Engineer" />
 </p>
 
 <p align="center">
@@ -106,8 +106,8 @@ const umair = {
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,graphql,react,nextjs,vue,ts,tailwind&perline=10" alt="Backend and frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,docker,githubactions,nginx,linux,wordpress&perline=10" alt="Data, cloud and DevOps" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,graphql,react,nextjs,vue,ts,tailwind&perline=10" alt="PHP, Laravel, Node.js, Express, GraphQL, React, Next.js, Vue, TypeScript, Tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,docker,githubactions,nginx,linux,wordpress&perline=10" alt="MySQL, PostgreSQL, MongoDB, Redis, AWS, Docker, GitHub Actions, Nginx, Linux, WordPress" />
 </p>
 
 <p align="center">
@@ -128,16 +128,28 @@ const umair = {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umair-afzal-uat&theme=tokyonight" width="100%" alt="Profile details" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+    <img src="./profile-summary-card-output/github/0-profile-details.svg" width="100%" alt="Profile details" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umair-afzal-uat&theme=tokyonight" height="170" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umair-afzal-uat&theme=tokyonight" height="170" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+    <img src="./profile-summary-card-output/github/3-stats.svg" height="170" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <img src="./profile-summary-card-output/github/2-most-commit-language.svg" height="170" alt="Top languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=umair-afzal-uat&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umair-afzal-uat/umair-afzal-uat/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/umair-afzal-uat/umair-afzal-uat/output/github-snake.svg" width="100%" alt="Contribution snake" />
+  </picture>
 </p>
 
 ## 🤝 Let's work together
