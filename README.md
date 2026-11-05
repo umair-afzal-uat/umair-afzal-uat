@@ -1,7 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=200&section=header&text=Muhammad%20Umair%20Afzal&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Muhammad Umair Afzal" />
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&lines=10%2B+years+shipping+production+SaaS;AI+systems+with+Claude+%26+OpenAI+APIs;Laravel+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+Next.js;CRM%2C+e-signing+%26+lead-gen+platforms;Open+to+senior+remote+roles+%26+contracts" alt="Senior Full-Stack & AI Engineer" />
+  <a href="https://umairafzal.pro/"><img src="./assets/header.svg" width="100%" alt="Muhammad Umair Afzal, Senior Full-Stack &amp; AI Engineer" /></a>
 </p>
 
 <p align="center">
@@ -106,8 +104,8 @@ const umair = {
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,graphql,react,nextjs,vue,ts,tailwind&perline=10" alt="PHP, Laravel, Node.js, Express, GraphQL, React, Next.js, Vue, TypeScript, Tailwind" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,docker,githubactions,nginx,linux,wordpress&perline=10" alt="MySQL, PostgreSQL, MongoDB, Redis, AWS, Docker, GitHub Actions, Nginx, Linux, WordPress" />
+  <img src="./assets/stack-1.svg" alt="Backend and frontend" /><br/>
+  <img src="./assets/stack-2.svg" alt="Data, cloud and DevOps" />
 </p>
 
 <p align="center">
@@ -163,4 +161,6 @@ const umair = {
   <a href="mailto:umair.afzal.uat@gmail.com"><img src="https://img.shields.io/badge/Hire_me-umair.afzal.uat%40gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0e75b6&height=120&section=footer" width="100%" alt="" />
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Thanks for visiting" />
+</p>
