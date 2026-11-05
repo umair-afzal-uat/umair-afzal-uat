@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="https://umairafzal.pro/"><img src="https://img.shields.io/badge/Portfolio-umairafzal.pro-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mumairafzal"><img src="https://img.shields.io/badge/LinkedIn-mumairafzal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:umair.afzal.uat@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://umairafzal.pro/"><img src="https://img.shields.io/badge/Portfolio-umairafzal.pro-0F6E56?style=for-the-badge&logo=googlechrome&logoColor=7DDBB8&labelColor=121714" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mumairafzal"><img src="https://img.shields.io/badge/LinkedIn-mumairafzal-0F6E56?style=for-the-badge&logo=linkedin&logoColor=7DDBB8&labelColor=121714" alt="LinkedIn" /></a>
+  <a href="mailto:umair.afzal.uat@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-0F6E56?style=for-the-badge&logo=gmail&logoColor=7DDBB8&labelColor=121714" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Lahore%2C_Pakistan_(UTC%2B5)-555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Available-Remote_%7C_Freelance_%7C_Contract-2ea44f?style=flat-square" alt="Availability" />
-  <img src="https://komarev.com/ghpvc/?username=umair-afzal-uat&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Location-Lahore%2C_Pakistan_(UTC%2B5)-121714?style=flat-square&logo=googlemaps&logoColor=7DDBB8&labelColor=2A332E" alt="Location" />
+  <img src="https://img.shields.io/badge/Available-Remote_%7C_Freelance_%7C_Contract-1FA37A?style=flat-square&labelColor=2A332E" alt="Availability" />
+  <img src="https://komarev.com/ghpvc/?username=umair-afzal-uat&label=Profile%20views&color=0F6E56&style=flat-square&labelColor=2A332E" alt="Profile views" />
 </p>
 
 ---
@@ -109,13 +109,13 @@ const umair = {
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/RAG_Systems-0e75b6?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Claude_API-121714?style=for-the-badge&logo=anthropic&logoColor=7DDBB8" alt="Claude API" />
+  <img src="https://img.shields.io/badge/OpenAI_API-121714?style=for-the-badge&logo=openai&logoColor=7DDBB8" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/LangChain-121714?style=for-the-badge&logo=langchain&logoColor=7DDBB8" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-121714?style=for-the-badge&logo=langchain&logoColor=7DDBB8" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG_Systems-0F6E56?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Twilio-121714?style=for-the-badge&logo=twilio&logoColor=7DDBB8" alt="Twilio" />
+  <img src="https://img.shields.io/badge/Stripe-121714?style=for-the-badge&logo=stripe&logoColor=7DDBB8" alt="Stripe" />
 </p>
 
 ## 🎓 Education
@@ -126,27 +126,18 @@ const umair = {
 ## 📊 GitHub stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
-    <img src="./profile-summary-card-output/github/0-profile-details.svg" width="100%" alt="Profile details" />
-  </picture>
+  <img src="./assets/cards/0-profile-details.svg" width="100%" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="./assets/cards/3-stats.svg" width="49%" alt="GitHub stats" />
+  <img src="./assets/cards/2-most-commit-language.svg" width="49%" alt="Top languages" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
-    <img src="./profile-summary-card-output/github/3-stats.svg" height="170" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-    <img src="./profile-summary-card-output/github/2-most-commit-language.svg" height="170" alt="Top languages" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umair-afzal-uat/umair-afzal-uat/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/umair-afzal-uat/umair-afzal-uat/output/github-snake.svg" width="100%" alt="Contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
+    <img src="./assets/snake.svg" width="100%" alt="Contribution snake" />
   </picture>
 </p>
 
@@ -158,7 +149,7 @@ const umair = {
 </p>
 
 <p align="center">
-  <a href="mailto:umair.afzal.uat@gmail.com"><img src="https://img.shields.io/badge/Hire_me-umair.afzal.uat%40gmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me" /></a>
+  <a href="mailto:umair.afzal.uat@gmail.com"><img src="https://img.shields.io/badge/Hire_me-umair.afzal.uat%40gmail.com-0F6E56?style=for-the-badge&logo=gmail&logoColor=7DDBB8&labelColor=121714" alt="Hire me" /></a>
 </p>
 
 <p align="center">

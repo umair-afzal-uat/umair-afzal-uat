@@ -1,14 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="Thanks for visiting">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="Thanks for visiting umairafzal.pro">
   <defs>
-    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#5b2bbf"/>
-      <stop offset="0.5" stop-color="#0e4f8a"/>
-      <stop offset="1" stop-color="#0b1f3a"/>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0F6E56"/>
+      <stop offset="1" stop-color="#1FA37A"/>
     </linearGradient>
   </defs>
   <style>
-    .t { font: 500 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #e2e8f0; }
+    .t { font: 500 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #A8B2AC; }
+    .m { fill: #7DDBB8; font-weight: 700; }
   </style>
-  <rect width="1200" height="90" rx="18" fill="url(#fbg)"/>
-  <text class="t" x="600" y="52" text-anchor="middle">Thanks for visiting · umairafzal.pro</text>
+  <rect width="1200" height="96" fill="#121714"/>
+  <rect width="1200" height="4" fill="url(#acc)"/>
+  <text class="t" x="600" y="56" text-anchor="middle">Thanks for visiting · <tspan class="m">umairafzal.pro</tspan></text>
 </svg>

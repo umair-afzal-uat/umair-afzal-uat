@@ -16,31 +16,48 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  summary-cards:
+  cards:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: main
           TIME_ZONE: Asia/Karachi
-          AUTO_PUSH: true
+          NAME: Muhammad Umair Afzal
+          THEME: github_dark
+          AUTO_PUSH: false
 
-  snake:
-    runs-on: ubuntu-latest
-    steps:
+      # Recolor the github_dark cards to the umairafzal.pro palette
+      - name: Apply portfolio colors
+        run: |
+          mkdir -p assets/cards
+          for f in 0-profile-details 2-most-commit-language 3-stats; do
+            sed -e 's/#0d1117/#121714/Ig' \
+                -e 's/#2e343b/#2A332E/Ig' \
+                -e 's/#8b949e/#A8B2AC/Ig' \
+                -e 's/#77909c/#7DDBB8/Ig' \
+                -e 's/#0366d6/#7DDBB8/Ig' \
+                -e 's/#40c463/#1FA37A/Ig' \
+                "profile-summary-card-output/github_dark/$f.svg" > "assets/cards/$f.svg"
+          done
+          rm -rf profile-summary-card-output
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            assets/snake.svg?color_snake=#0F6E56&color_dots=#E9ECE8,#B7E4D2,#7DDBB8,#1FA37A,#0F6E56
+            assets/snake-dark.svg?color_snake=#7DDBB8&color_dots=#1E2622,#0F6E56,#168A66,#1FA37A,#7DDBB8
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && exit 0
+          git commit -m "Update profile cards"
+          git push
