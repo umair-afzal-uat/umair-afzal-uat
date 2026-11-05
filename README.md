@@ -1,9 +1,8 @@
 <p align="center">
-  <a href="https://umairafzal.pro/"><img src="./assets/header.svg" width="100%" alt="Muhammad Umair Afzal, Senior Full-Stack &amp; AI Engineer" /></a>
+  <img src="./assets/header.svg" width="100%" alt="Muhammad Umair Afzal, Senior Full-Stack &amp; AI Engineer" />
 </p>
 
 <p align="center">
-  <a href="https://umairafzal.pro/"><img src="https://img.shields.io/badge/Portfolio-umairafzal.pro-0F6E56?style=for-the-badge&logo=googlechrome&logoColor=7DDBB8&labelColor=121714" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mumairafzal"><img src="https://img.shields.io/badge/LinkedIn-mumairafzal-0F6E56?style=for-the-badge&logo=linkedin&logoColor=7DDBB8&labelColor=121714" alt="LinkedIn" /></a>
   <a href="mailto:umair.afzal.uat@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-0F6E56?style=for-the-badge&logo=gmail&logoColor=7DDBB8&labelColor=121714" alt="Email" /></a>
 </p>
@@ -103,7 +102,6 @@ const umair = {
   </tr>
 </table>
 
-<p align="center">➕ 100+ more small and medium projects on <a href="https://umairafzal.pro/"><b>umairafzal.pro</b></a></p>
 
 ## 🛠️ Tech stack
 
@@ -136,17 +134,6 @@ const umair = {
 <p align="center">
   <img src="./assets/cards/3-stats.svg" width="49%" alt="GitHub stats" />
   <img src="./assets/cards/2-most-commit-language.svg" width="49%" alt="Top languages" />
-</p>
-
-## 🤝 Let's work together
-
-<p align="center">
-  Building a SaaS, adding AI to your product, or need a senior engineer to lead delivery?<br/>
-  <b>I reply within 24 hours.</b>
-</p>
-
-<p align="center">
-  <a href="mailto:umair.afzal.uat@gmail.com"><img src="https://img.shields.io/badge/Hire_me-umair.afzal.uat%40gmail.com-0F6E56?style=for-the-badge&logo=gmail&logoColor=7DDBB8&labelColor=121714" alt="Hire me" /></a>
 </p>
 
 <p align="center">
